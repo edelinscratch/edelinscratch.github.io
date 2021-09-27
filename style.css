@@ -48,10 +48,11 @@ p{
     min-width: 300px;
 }
 .col-2 img{
-   
-     width: 50px;
-    margin-top: 20px;
-    border-radius: 50%;
+    max-width: 100%;
+    padding: 50px 0;
+     width: 100px;
+    margin-top: 50px;
+    border-radius: 100%;
 }
 .col-2 h1{
     font-size: 50px; 
